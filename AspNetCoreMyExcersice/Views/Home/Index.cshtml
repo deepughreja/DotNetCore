@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Employee>
+
+
+
+@*<link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/Site.css" rel="stylesheet" />*@
+<style>
+    .container {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 28px;
+    }
+</style>
+<div class="row">
+    @foreach (var employee in Model)
+    {
+        var photoPath = "~/Images/" + (employee.PhotoPath ?? "1.png");
+        <div class="col-sm-3" style="padding:15px">
+            <div class="card">
+                <div class="card-header">
+                    <h3>@employee.Name</h3>
+                </div>
+                <div class="card-body">
+                    <img class="card-img-top ImageThumbnail" src="@photoPath" asp-append-version="true" />
+                </div>
+                <div class="card-footer text-center">
+                    
+                    <a class="btn btn-primary btn btn-primary btn-sm" href="#">View</a>
+                    <a asp-action="edit" asp-controller="Home" asp-route-id="@employee.Id" class="btn btn-primary btn btn-primary btn-sm">Edit</a>
+                    <a href="#" class="btn btn-danger btn btn-primary btn-sm">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

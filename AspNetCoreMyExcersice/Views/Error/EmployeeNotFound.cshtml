@@ -1,0 +1,14 @@
+﻿@model int
+@{
+    ViewBag.Title = "Create";
+}
+<div class="alert alert-danger mt-1 mb-1">
+    <h4>404 Not found Error</h4>
+    <hr />
+    <h5>
+        Employee with id = @Model can not be found.
+    </h5>
+</div>
+<a asp-action="index" asp-controller="home" class="btn btn-outline-danger bg-success">
+    Click here to see the list of employee
+</a>

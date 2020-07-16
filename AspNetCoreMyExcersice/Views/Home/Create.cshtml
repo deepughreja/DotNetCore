@@ -1,0 +1,44 @@
+﻿@model EmployeeViewModel
+@{
+    ViewBag.Title = "Create";
+}
+@*<link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />*@
+<h3>Create</h3>
+<form enctype="multipart/form-data" asp-controller="Home" asp-action="Create" method="post">
+    <div class="form-group row">
+        <label class="col-sm-2 col-form-label" asp-for="@Model.Name"></label>
+        <div class="col-sm-6">
+            <input class="form-control" placeholder="Name" asp-for="@Model.Name" />
+            <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-form-label" asp-for="@Model.Email"></label>
+        <div class="col-sm-6">
+            <input class="form-control" placeholder="Email" asp-for="@Model.Email" />
+            <span asp-validation-for="@Model.Email" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-form-label" asp-for="@Model.Photo"></label>
+        <div class="col-sm-6">
+            <div>
+                <input class="form-control" asp-for="@Model.Photo" />
+            </div>
+        </div>
+    </div>
+
+
+    @*<div>
+            <label asp-for="Department"></label>
+            <select asp-for="Department"
+                    asp-items="Html.GetEnumSelectList<Dept>()" />
+        </div>*@
+    <div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </div>
+
+</form>
+

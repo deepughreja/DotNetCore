@@ -1,0 +1,670 @@
+2020-06-05 22:38:11.8325 Info Message Template Auto Format enabled
+2020-06-05 22:38:11.8600 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-05 22:38:11.9519 Info Adding target FileTarget(Name=alldata)
+2020-06-05 22:38:11.9519 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-05 22:38:12.0110 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-05 22:38:12.0519 Info Configuration initialized.
+2020-06-05 22:38:12.0519 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:06:18.4734 Info Message Template Auto Format enabled
+2020-06-06 00:06:18.4941 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:06:18.6001 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:06:18.6001 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:06:18.6498 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:06:18.6882 Info Configuration initialized.
+2020-06-06 00:06:18.6895 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:09:52.8693 Info Message Template Auto Format enabled
+2020-06-06 00:09:52.8847 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:09:52.9728 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:09:52.9728 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:09:53.0145 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:09:53.1068 Info Configuration initialized.
+2020-06-06 00:09:53.1068 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:19:19.4217 Info Message Template Auto Format enabled
+2020-06-06 00:19:19.4380 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:19:19.5582 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:19:19.5626 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:19:19.6464 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:19:19.6904 Info Configuration initialized.
+2020-06-06 00:19:19.6904 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:22:28.6503 Info Message Template Auto Format enabled
+2020-06-06 00:22:28.6714 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:22:28.7620 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:22:28.7620 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:22:28.8123 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:22:28.8597 Info Configuration initialized.
+2020-06-06 00:22:28.8597 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:25:01.3889 Info Message Template Auto Format enabled
+2020-06-06 00:25:01.4133 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:25:01.5346 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:25:01.5346 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:25:01.6048 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:25:01.6779 Info Configuration initialized.
+2020-06-06 00:25:01.6779 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:26:40.4985 Info Message Template Auto Format enabled
+2020-06-06 00:26:40.5257 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:26:40.6971 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:26:40.7030 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:26:40.8075 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:26:40.8788 Info Configuration initialized.
+2020-06-06 00:26:40.8788 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:29:58.4964 Info Message Template Auto Format enabled
+2020-06-06 00:29:58.5391 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:29:58.7081 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:29:58.7228 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:29:58.7804 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:29:58.8241 Info Configuration initialized.
+2020-06-06 00:29:58.8262 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:32:00.7384 Info Message Template Auto Format enabled
+2020-06-06 00:32:00.7647 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:32:00.9473 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:32:00.9524 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:32:01.0419 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:32:01.1175 Info Configuration initialized.
+2020-06-06 00:32:01.1175 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:34:18.8159 Info Message Template Auto Format enabled
+2020-06-06 00:34:18.8473 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:34:19.0158 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:34:19.0158 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:34:19.1027 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:34:19.1653 Info Configuration initialized.
+2020-06-06 00:34:19.1653 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:36:10.9096 Info Message Template Auto Format enabled
+2020-06-06 00:36:10.9356 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:36:11.2315 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:36:11.2315 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:36:11.3427 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:36:11.4181 Info Configuration initialized.
+2020-06-06 00:36:11.4201 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-06 00:37:01.7181 Info Message Template Auto Format enabled
+2020-06-06 00:37:01.7314 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-06 00:37:01.7987 Info Adding target FileTarget(Name=alldata)
+2020-06-06 00:37:01.7987 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-06 00:37:01.8527 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-06 00:37:01.8773 Info Configuration initialized.
+2020-06-06 00:37:01.8773 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 06:14:37.6239 Info Message Template Auto Format enabled
+2020-06-08 06:14:37.7002 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 06:14:37.9259 Info Adding target FileTarget(Name=alldata)
+2020-06-08 06:14:37.9259 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 06:14:38.0216 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 06:14:38.0888 Info Configuration initialized.
+2020-06-08 06:14:38.0888 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 06:18:24.9232 Info Message Template Auto Format enabled
+2020-06-08 06:18:24.9378 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 06:18:25.0270 Info Adding target FileTarget(Name=alldata)
+2020-06-08 06:18:25.0270 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 06:18:25.0872 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 06:18:25.1394 Info Configuration initialized.
+2020-06-08 06:18:25.1410 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 06:18:26.4102 Info AppDomain Shutting down. Logger closing...
+2020-06-08 06:18:26.4435 Info Logger has been shut down.
+2020-06-08 06:21:16.7414 Info Message Template Auto Format enabled
+2020-06-08 06:21:16.7588 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 06:21:16.8725 Info Adding target FileTarget(Name=alldata)
+2020-06-08 06:21:16.8766 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 06:21:16.9413 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 06:21:16.9845 Info Configuration initialized.
+2020-06-08 06:21:16.9845 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 06:21:20.2765 Info AppDomain Shutting down. Logger closing...
+2020-06-08 06:21:20.3339 Info Logger has been shut down.
+2020-06-08 06:22:38.0694 Info Message Template Auto Format enabled
+2020-06-08 06:22:38.0952 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 06:22:38.2618 Info Adding target FileTarget(Name=alldata)
+2020-06-08 06:22:38.2672 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 06:22:38.3468 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 06:22:38.4109 Info Configuration initialized.
+2020-06-08 06:22:38.4109 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 06:22:43.6069 Info AppDomain Shutting down. Logger closing...
+2020-06-08 06:22:43.6631 Info Logger has been shut down.
+2020-06-08 06:51:55.9732 Info Message Template Auto Format enabled
+2020-06-08 06:51:56.0157 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 06:51:56.1488 Info Adding target FileTarget(Name=alldata)
+2020-06-08 06:51:56.1620 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 06:51:56.2534 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 06:51:56.3099 Info Configuration initialized.
+2020-06-08 06:51:56.3099 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:01:48.5130 Info Message Template Auto Format enabled
+2020-06-08 07:01:48.5291 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:01:48.6056 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:01:48.6056 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:01:48.6733 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:01:48.7090 Info Configuration initialized.
+2020-06-08 07:01:48.7090 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:21:49.4940 Info Message Template Auto Format enabled
+2020-06-08 07:21:49.5147 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:21:49.6189 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:21:49.6189 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:21:49.6930 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:21:49.7420 Info Configuration initialized.
+2020-06-08 07:21:49.7420 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:23:01.1591 Info Message Template Auto Format enabled
+2020-06-08 07:23:01.1860 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:23:01.3546 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:23:01.3546 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:23:01.4535 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:23:01.5293 Info Configuration initialized.
+2020-06-08 07:23:01.5293 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:25:23.2544 Info Message Template Auto Format enabled
+2020-06-08 07:25:23.2544 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:25:23.3404 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:25:23.3404 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:25:23.3908 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:25:23.4181 Info Configuration initialized.
+2020-06-08 07:25:23.4181 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:28:57.7851 Info Message Template Auto Format enabled
+2020-06-08 07:28:57.8342 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:28:58.0710 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:28:58.0710 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:28:58.1594 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:28:58.2425 Info Configuration initialized.
+2020-06-08 07:28:58.2425 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:31:30.2130 Info Message Template Auto Format enabled
+2020-06-08 07:31:30.2258 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:31:30.2847 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:31:30.2847 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:31:30.3293 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:31:30.3631 Info Configuration initialized.
+2020-06-08 07:31:30.3631 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:35:04.2381 Info Message Template Auto Format enabled
+2020-06-08 07:35:04.2763 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:35:04.6020 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:35:04.6020 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:35:04.7279 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:35:04.8147 Info Configuration initialized.
+2020-06-08 07:35:04.8147 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:37:31.6533 Info Message Template Auto Format enabled
+2020-06-08 07:37:31.6735 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:37:31.8302 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:37:31.8354 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:37:31.9242 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:37:31.9980 Info Configuration initialized.
+2020-06-08 07:37:31.9980 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 07:40:20.4030 Info Message Template Auto Format enabled
+2020-06-08 07:40:20.4372 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 07:40:20.5715 Info Adding target FileTarget(Name=alldata)
+2020-06-08 07:40:20.5715 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 07:40:20.6706 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 07:40:20.7525 Info Configuration initialized.
+2020-06-08 07:40:20.7525 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 19:37:41.8409 Info Message Template Auto Format enabled
+2020-06-08 19:37:41.9324 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 19:37:42.0673 Info Adding target FileTarget(Name=alldata)
+2020-06-08 19:37:42.0673 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 19:37:42.1418 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 19:37:42.1818 Info Configuration initialized.
+2020-06-08 19:37:42.1818 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 19:52:55.4781 Info Message Template Auto Format enabled
+2020-06-08 19:52:55.5065 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 19:52:55.6906 Info Adding target FileTarget(Name=alldata)
+2020-06-08 19:52:55.6906 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 19:52:55.7927 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 19:52:55.8434 Info Configuration initialized.
+2020-06-08 19:52:55.8434 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 19:56:07.7067 Info Message Template Auto Format enabled
+2020-06-08 19:56:07.7419 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 19:56:07.9679 Info Adding target FileTarget(Name=alldata)
+2020-06-08 19:56:07.9679 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 19:56:08.0707 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 19:56:08.1489 Info Configuration initialized.
+2020-06-08 19:56:08.1489 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 19:58:01.7625 Info Message Template Auto Format enabled
+2020-06-08 19:58:01.7918 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 19:58:01.9246 Info Adding target FileTarget(Name=alldata)
+2020-06-08 19:58:01.9246 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 19:58:02.0338 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 19:58:02.0970 Info Configuration initialized.
+2020-06-08 19:58:02.0970 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-08 20:02:09.4670 Info Message Template Auto Format enabled
+2020-06-08 20:02:09.4995 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-08 20:02:09.6921 Info Adding target FileTarget(Name=alldata)
+2020-06-08 20:02:09.6921 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-08 20:02:09.8041 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-08 20:02:09.8764 Info Configuration initialized.
+2020-06-08 20:02:09.8764 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:19:04.4388 Info Message Template Auto Format enabled
+2020-06-09 19:19:04.5095 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:19:04.7327 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:19:04.7327 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:19:04.8307 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:19:04.8953 Info Configuration initialized.
+2020-06-09 19:19:04.8953 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:20:56.9585 Info Message Template Auto Format enabled
+2020-06-09 19:20:56.9857 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:20:57.1457 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:20:57.1457 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:20:57.2161 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:20:57.2643 Info Configuration initialized.
+2020-06-09 19:20:57.2643 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:21:54.0104 Info Message Template Auto Format enabled
+2020-06-09 19:21:54.0426 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:21:54.2467 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:21:54.2467 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:21:54.3780 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:21:54.4454 Info Configuration initialized.
+2020-06-09 19:21:54.4454 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:26:33.8869 Info Message Template Auto Format enabled
+2020-06-09 19:26:33.9057 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:26:34.0311 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:26:34.0311 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:26:34.1031 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:26:34.1426 Info Configuration initialized.
+2020-06-09 19:26:34.1426 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:28:11.4711 Info Message Template Auto Format enabled
+2020-06-09 19:28:11.4963 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:28:11.6811 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:28:11.6866 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:28:11.7924 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:28:11.8653 Info Configuration initialized.
+2020-06-09 19:28:11.8653 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:37:36.1192 Info Message Template Auto Format enabled
+2020-06-09 19:37:36.1655 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:37:36.3491 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:37:36.3491 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:37:36.4478 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:37:36.5043 Info Configuration initialized.
+2020-06-09 19:37:36.5043 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 19:39:14.2520 Info Message Template Auto Format enabled
+2020-06-09 19:39:14.2829 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 19:39:14.4424 Info Adding target FileTarget(Name=alldata)
+2020-06-09 19:39:14.4424 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 19:39:14.5225 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 19:39:14.5990 Info Configuration initialized.
+2020-06-09 19:39:14.5990 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:00:24.8990 Info Message Template Auto Format enabled
+2020-06-09 20:00:24.9279 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:00:25.1317 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:00:25.1383 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:00:25.2334 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:00:25.3216 Info Configuration initialized.
+2020-06-09 20:00:25.3216 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:02:37.4241 Info Message Template Auto Format enabled
+2020-06-09 20:02:37.4668 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:02:37.6431 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:02:37.6431 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:02:37.7253 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:02:37.7989 Info Configuration initialized.
+2020-06-09 20:02:37.7989 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:05:22.2911 Info Message Template Auto Format enabled
+2020-06-09 20:05:22.3206 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:05:22.5288 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:05:22.5288 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:05:22.6431 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:05:22.7077 Info Configuration initialized.
+2020-06-09 20:05:22.7077 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:44:11.1309 Info Message Template Auto Format enabled
+2020-06-09 20:44:11.1581 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:44:11.3662 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:44:11.3732 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:44:11.5041 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:44:11.5644 Info Configuration initialized.
+2020-06-09 20:44:11.5644 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:46:04.0602 Info Message Template Auto Format enabled
+2020-06-09 20:46:04.1208 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:46:04.3912 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:46:04.3912 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:46:04.5062 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:46:04.5821 Info Configuration initialized.
+2020-06-09 20:46:04.5821 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:46:53.0158 Info Message Template Auto Format enabled
+2020-06-09 20:46:53.0539 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:46:53.3132 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:46:53.3132 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:46:53.4310 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:46:53.5028 Info Configuration initialized.
+2020-06-09 20:46:53.5028 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:48:43.7176 Info Message Template Auto Format enabled
+2020-06-09 20:48:43.7411 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:48:43.9031 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:48:43.9031 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:48:44.0332 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:48:44.1234 Info Configuration initialized.
+2020-06-09 20:48:44.1234 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:51:11.4488 Info Message Template Auto Format enabled
+2020-06-09 20:51:11.4799 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:51:11.6493 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:51:11.6543 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:51:11.7331 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:51:11.7944 Info Configuration initialized.
+2020-06-09 20:51:11.7944 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 20:58:22.4684 Info Message Template Auto Format enabled
+2020-06-09 20:58:22.5062 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 20:58:22.6486 Info Adding target FileTarget(Name=alldata)
+2020-06-09 20:58:22.6486 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 20:58:22.7461 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 20:58:22.8004 Info Configuration initialized.
+2020-06-09 20:58:22.8004 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:00:52.4316 Info Message Template Auto Format enabled
+2020-06-09 21:00:52.4732 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:00:52.6892 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:00:52.7010 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:00:52.8674 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:00:52.9824 Info Configuration initialized.
+2020-06-09 21:00:52.9824 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:03:24.1516 Info Message Template Auto Format enabled
+2020-06-09 21:03:24.1784 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:03:24.3406 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:03:24.3476 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:03:24.4231 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:03:24.5085 Info Configuration initialized.
+2020-06-09 21:03:24.5085 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:06:31.0454 Info Message Template Auto Format enabled
+2020-06-09 21:06:31.0693 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:06:31.2280 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:06:31.2333 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:06:31.3093 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:06:31.3683 Info Configuration initialized.
+2020-06-09 21:06:31.3683 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:10:17.6960 Info Message Template Auto Format enabled
+2020-06-09 21:10:17.7344 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:10:17.9273 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:10:17.9273 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:10:18.0102 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:10:18.0983 Info Configuration initialized.
+2020-06-09 21:10:18.0983 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:18:51.4515 Info Message Template Auto Format enabled
+2020-06-09 21:18:51.4968 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:18:51.7228 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:18:51.7228 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:18:51.8201 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:18:51.8860 Info Configuration initialized.
+2020-06-09 21:18:51.8874 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:21:10.7808 Info Message Template Auto Format enabled
+2020-06-09 21:21:10.8075 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:21:10.9994 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:21:10.9994 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:21:11.0851 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:21:11.1513 Info Configuration initialized.
+2020-06-09 21:21:11.1513 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-09 21:44:16.9624 Info Message Template Auto Format enabled
+2020-06-09 21:44:16.9737 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-09 21:44:17.0332 Info Adding target FileTarget(Name=alldata)
+2020-06-09 21:44:17.0332 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-09 21:44:17.0649 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-09 21:44:17.0864 Info Configuration initialized.
+2020-06-09 21:44:17.0864 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 18:17:38.0646 Info Message Template Auto Format enabled
+2020-06-15 18:17:38.1427 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 18:17:38.2779 Info Adding target FileTarget(Name=alldata)
+2020-06-15 18:17:38.2779 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 18:17:38.3514 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 18:17:38.4154 Info Configuration initialized.
+2020-06-15 18:17:38.4176 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 20:09:56.3389 Info Message Template Auto Format enabled
+2020-06-15 20:09:56.3625 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 20:09:56.4848 Info Adding target FileTarget(Name=alldata)
+2020-06-15 20:09:56.4848 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 20:09:56.5818 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 20:09:56.6312 Info Configuration initialized.
+2020-06-15 20:09:56.6312 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 20:21:31.5023 Info Message Template Auto Format enabled
+2020-06-15 20:21:31.5369 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 20:21:31.7156 Info Adding target FileTarget(Name=alldata)
+2020-06-15 20:21:31.7156 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 20:21:31.8076 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 20:21:31.8861 Info Configuration initialized.
+2020-06-15 20:21:31.8861 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 20:25:23.6836 Info Message Template Auto Format enabled
+2020-06-15 20:25:23.7030 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 20:25:23.8146 Info Adding target FileTarget(Name=alldata)
+2020-06-15 20:25:23.8146 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 20:25:23.8684 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 20:25:23.9053 Info Configuration initialized.
+2020-06-15 20:25:23.9053 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 23:06:14.8196 Info Message Template Auto Format enabled
+2020-06-15 23:06:14.8521 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 23:06:15.0428 Info Adding target FileTarget(Name=alldata)
+2020-06-15 23:06:15.0428 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 23:06:15.1544 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 23:06:15.2426 Info Configuration initialized.
+2020-06-15 23:06:15.2426 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 23:08:58.8931 Info Message Template Auto Format enabled
+2020-06-15 23:08:58.9110 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 23:08:59.0335 Info Adding target FileTarget(Name=alldata)
+2020-06-15 23:08:59.0335 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 23:08:59.1162 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 23:08:59.1540 Info Configuration initialized.
+2020-06-15 23:08:59.1540 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 23:10:53.9110 Info Message Template Auto Format enabled
+2020-06-15 23:10:53.9475 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 23:10:54.1445 Info Adding target FileTarget(Name=alldata)
+2020-06-15 23:10:54.1445 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 23:10:54.2654 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 23:10:54.3472 Info Configuration initialized.
+2020-06-15 23:10:54.3472 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-15 23:13:58.9699 Info Message Template Auto Format enabled
+2020-06-15 23:13:59.0019 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-15 23:13:59.1854 Info Adding target FileTarget(Name=alldata)
+2020-06-15 23:13:59.1854 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-15 23:13:59.3145 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-15 23:13:59.3982 Info Configuration initialized.
+2020-06-15 23:13:59.3982 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:17:12.1464 Info Message Template Auto Format enabled
+2020-06-16 04:17:12.1620 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:17:12.2553 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:17:12.2553 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:17:12.3038 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:17:12.3352 Info Configuration initialized.
+2020-06-16 04:17:12.3352 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:17:15.8943 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:17:15.9525 Info Logger has been shut down.
+2020-06-16 04:18:09.0407 Info Message Template Auto Format enabled
+2020-06-16 04:18:09.0583 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:18:09.1546 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:18:09.1546 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:18:09.2096 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:18:09.2418 Info Configuration initialized.
+2020-06-16 04:18:09.2418 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:18:13.1031 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:18:13.1588 Info Logger has been shut down.
+2020-06-16 04:20:05.7811 Info Message Template Auto Format enabled
+2020-06-16 04:20:05.8032 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:20:05.9276 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:20:05.9276 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:20:05.9996 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:20:06.0527 Info Configuration initialized.
+2020-06-16 04:20:06.0527 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:20:10.0277 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:20:10.0752 Info Logger has been shut down.
+2020-06-16 04:20:35.8310 Info Message Template Auto Format enabled
+2020-06-16 04:20:35.8511 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:20:36.0212 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:20:36.0212 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:20:36.0852 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:20:36.1296 Info Configuration initialized.
+2020-06-16 04:20:36.1296 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:20:39.5936 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:20:39.6530 Info Logger has been shut down.
+2020-06-16 04:21:43.2319 Info Message Template Auto Format enabled
+2020-06-16 04:21:43.2509 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:21:43.3755 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:21:43.3755 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:21:43.4456 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:21:43.4958 Info Configuration initialized.
+2020-06-16 04:21:43.4958 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:21:47.6292 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:21:47.6909 Info Logger has been shut down.
+2020-06-16 04:22:37.3357 Info Message Template Auto Format enabled
+2020-06-16 04:22:37.3679 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:22:37.5201 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:22:37.5262 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:22:37.6189 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:22:37.6771 Info Configuration initialized.
+2020-06-16 04:22:37.6771 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:22:41.9682 Info AppDomain Shutting down. Logger closing...
+2020-06-16 04:22:42.0297 Info Logger has been shut down.
+2020-06-16 04:24:48.0575 Info Message Template Auto Format enabled
+2020-06-16 04:24:48.0752 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:24:48.2339 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:24:48.2339 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:24:48.3408 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:24:48.4275 Info Configuration initialized.
+2020-06-16 04:24:48.4275 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-16 04:26:03.6942 Info Message Template Auto Format enabled
+2020-06-16 04:26:03.7249 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-16 04:26:03.9146 Info Adding target FileTarget(Name=alldata)
+2020-06-16 04:26:03.9196 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-16 04:26:04.0087 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-16 04:26:04.0977 Info Configuration initialized.
+2020-06-16 04:26:04.0977 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 17:46:50.7018 Info Message Template Auto Format enabled
+2020-06-20 17:46:50.7794 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 17:46:50.9075 Info Adding target FileTarget(Name=alldata)
+2020-06-20 17:46:50.9112 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 17:46:51.0168 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 17:46:51.1310 Info Configuration initialized.
+2020-06-20 17:46:51.1310 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:01:04.7433 Info Message Template Auto Format enabled
+2020-06-20 20:01:04.7630 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:01:04.8736 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:01:04.8736 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:01:04.9423 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:01:04.9862 Info Configuration initialized.
+2020-06-20 20:01:04.9879 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:01:08.6510 Info AppDomain Shutting down. Logger closing...
+2020-06-20 20:01:08.7080 Info Logger has been shut down.
+2020-06-20 20:02:02.1164 Info Message Template Auto Format enabled
+2020-06-20 20:02:02.1596 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:02:02.3668 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:02:02.3668 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:02:02.4792 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:02:02.5526 Info Configuration initialized.
+2020-06-20 20:02:02.5526 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:02:07.8828 Info AppDomain Shutting down. Logger closing...
+2020-06-20 20:02:07.9278 Info Logger has been shut down.
+2020-06-20 20:15:02.0293 Info Message Template Auto Format enabled
+2020-06-20 20:15:02.0700 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:15:02.2371 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:15:02.2412 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:15:02.3098 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:15:02.3759 Info Configuration initialized.
+2020-06-20 20:15:02.3759 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:15:05.2303 Info AppDomain Shutting down. Logger closing...
+2020-06-20 20:15:05.2546 Info Logger has been shut down.
+2020-06-20 20:16:16.7423 Info Message Template Auto Format enabled
+2020-06-20 20:16:16.7596 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:16:16.8709 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:16:16.8709 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:16:16.9320 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:16:16.9662 Info Configuration initialized.
+2020-06-20 20:16:16.9662 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:16:24.6811 Info AppDomain Shutting down. Logger closing...
+2020-06-20 20:16:24.7426 Info Logger has been shut down.
+2020-06-20 20:19:38.1029 Info Message Template Auto Format enabled
+2020-06-20 20:19:38.1310 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:19:38.3199 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:19:38.3199 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:19:38.4655 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:19:38.5673 Info Configuration initialized.
+2020-06-20 20:19:38.5673 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:21:47.3225 Info Message Template Auto Format enabled
+2020-06-20 20:21:47.3389 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:21:47.4183 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:21:47.4183 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:21:47.4796 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:21:47.5227 Info Configuration initialized.
+2020-06-20 20:21:47.5227 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:39:15.3040 Info Message Template Auto Format enabled
+2020-06-20 20:39:15.3251 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:39:15.4218 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:39:15.4257 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:39:15.4780 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:39:15.5286 Info Configuration initialized.
+2020-06-20 20:39:15.5286 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:41:27.1552 Info Message Template Auto Format enabled
+2020-06-20 20:41:27.1774 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:41:27.3035 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:41:27.3035 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:41:27.3753 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:41:27.4310 Info Configuration initialized.
+2020-06-20 20:41:27.4310 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:44:54.4347 Info Message Template Auto Format enabled
+2020-06-20 20:44:54.4770 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:44:54.7160 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:44:54.7160 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:44:54.8485 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:44:54.9266 Info Configuration initialized.
+2020-06-20 20:44:54.9266 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:47:35.0555 Info Message Template Auto Format enabled
+2020-06-20 20:47:35.0917 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:47:35.3258 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:47:35.3361 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:47:35.4865 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:47:35.5800 Info Configuration initialized.
+2020-06-20 20:47:35.5857 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 20:59:36.7313 Info Message Template Auto Format enabled
+2020-06-20 20:59:36.7469 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 20:59:36.8340 Info Adding target FileTarget(Name=alldata)
+2020-06-20 20:59:36.8340 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 20:59:36.8875 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 20:59:36.9330 Info Configuration initialized.
+2020-06-20 20:59:36.9330 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 21:03:10.0047 Info Message Template Auto Format enabled
+2020-06-20 21:03:10.0221 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 21:03:10.1029 Info Adding target FileTarget(Name=alldata)
+2020-06-20 21:03:10.1029 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 21:03:10.1388 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 21:03:10.1672 Info Configuration initialized.
+2020-06-20 21:03:10.1672 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 23:16:27.5146 Info Message Template Auto Format enabled
+2020-06-20 23:16:27.5255 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 23:16:27.5945 Info Adding target FileTarget(Name=alldata)
+2020-06-20 23:16:27.5999 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 23:16:27.6534 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 23:16:27.6910 Info Configuration initialized.
+2020-06-20 23:16:27.6921 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 23:18:12.9178 Info Message Template Auto Format enabled
+2020-06-20 23:18:12.9314 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 23:18:13.0106 Info Adding target FileTarget(Name=alldata)
+2020-06-20 23:18:13.0106 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 23:18:13.0620 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 23:18:13.0972 Info Configuration initialized.
+2020-06-20 23:18:13.0972 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 23:20:39.7098 Info Message Template Auto Format enabled
+2020-06-20 23:20:39.7243 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 23:20:39.8108 Info Adding target FileTarget(Name=alldata)
+2020-06-20 23:20:39.8108 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 23:20:39.8710 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 23:20:39.9081 Info Configuration initialized.
+2020-06-20 23:20:39.9094 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 23:50:21.5239 Info Message Template Auto Format enabled
+2020-06-20 23:50:21.5363 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 23:50:21.5942 Info Adding target FileTarget(Name=alldata)
+2020-06-20 23:50:21.5942 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 23:50:21.6305 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 23:50:21.6521 Info Configuration initialized.
+2020-06-20 23:50:21.6521 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-20 23:55:09.5777 Info Message Template Auto Format enabled
+2020-06-20 23:55:09.6666 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-20 23:55:09.9387 Info Adding target FileTarget(Name=alldata)
+2020-06-20 23:55:09.9457 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-20 23:55:10.0687 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-20 23:55:10.1647 Info Configuration initialized.
+2020-06-20 23:55:10.1647 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-21 00:03:52.2621 Info Message Template Auto Format enabled
+2020-06-21 00:03:52.2791 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-21 00:03:52.3787 Info Adding target FileTarget(Name=alldata)
+2020-06-21 00:03:52.3819 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-21 00:03:52.4306 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-21 00:03:52.4679 Info Configuration initialized.
+2020-06-21 00:03:52.4679 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-21 00:10:59.4377 Info Message Template Auto Format enabled
+2020-06-21 00:10:59.4540 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-21 00:10:59.5330 Info Adding target FileTarget(Name=alldata)
+2020-06-21 00:10:59.5358 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-21 00:10:59.5736 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-21 00:10:59.6042 Info Configuration initialized.
+2020-06-21 00:10:59.6042 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-21 00:12:39.1665 Info Message Template Auto Format enabled
+2020-06-21 00:12:39.1799 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-21 00:12:39.2470 Info Adding target FileTarget(Name=alldata)
+2020-06-21 00:12:39.2470 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-21 00:12:39.2876 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-21 00:12:39.3208 Info Configuration initialized.
+2020-06-21 00:12:39.3208 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-21 00:17:24.9305 Info Message Template Auto Format enabled
+2020-06-21 00:17:24.9419 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-21 00:17:25.0024 Info Adding target FileTarget(Name=alldata)
+2020-06-21 00:17:25.0046 Info Adding target FileTarget(Name=otherFile-web)
+2020-06-21 00:17:25.0341 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=F:\NetCoreMyExcersice\AspNetCoreMyExcersice\AspNetCoreMyExcersice\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-21 00:17:25.0549 Info Configuration initialized.
+2020-06-21 00:17:25.0549 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
